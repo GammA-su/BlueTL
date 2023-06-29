@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "elaborate-haven-390001",
+  "private_key_id": "7853601769686f08a8603d8ba6b81b6d19616d12",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuLoN+4nN6cFBz\nTH2OH0H3W6tFIxY14+4LNx12pIF4B+WE7k5WGRMllLFQ9l16yUWpBAXRTRVbg3yd\nVaNfuBpo+qjzmIzWRaBjzJO7SIw7c6XYQW+mZzdAhzt9ZLkqe+IfIxe180pJrdvA\noQbM6bpTeBBzddblZBixN9DPigpG7frtcpnJOJb/Zb3qk6Z1R/02BnhzmUaJs1bh\nE+pOF1V7wgvv/084YTGKjDtw05mGVa+l8y68K7tmb7Yg9MiWVe31T7nkIpBshtxd\nAyWI3wzAG0yHZZs9sUK/8sm2NRdCWLCgxjp3Mx1PM/hTDMPt4FcjQZRfrsywmMUg\nm7XIEYyjAgMBAAECggEAKcm4/HkBsW8+rdq9CJrRLbINbgHT80visUggxnUDJrPm\nSbUOkDNl149L1xu0I6AkGT+A0c0HgbQS8oA4ON+nXmY8oGyJ5WJA75CGJNlr41uE\nf1R7n9WFePK4wAWpMtsTzdqSdrGOsgyG+zjms8SjUiEs+TZdPx17mxDEBPaeLpPG\nAlhPjw6z3FhBkpWH5qgBaRCSh4vnXgLhJ+whIAvEV3dGsET7uWGGT/RCwGwUnXBu\necSYU8s7gdTp8cT3du9Piv5Cv5hIHgjwpGgG2DeVehIaWBAPa9WOfRkHkY9IbozA\nr0p0IUyO8CzpObt6sXk2czS18ggs7oGpLED8Yt0dqQKBgQDleZAGlUn2bs/kfKjc\nUvg9pSbrA28wCbW4GzDgHdFjQWFTNuNpDDghm/25ibsbpn8zo9FQYW7i6Wchj9DO\nPF1syFrX+ln6aES3eIdNfXgrOq4KzUIjK23l+a1ftM/cMxf5uv9S7ORzovg5z9Gy\nJZQJPRLe/ss1dseufEbKrekXtQKBgQDCUMKEfow4igFs0MdvCKtIsNW5j2LQu8YU\nelnADedoRJOVakLcm+5z1GYNP4qksrx7z0hn/sCRvhr3WrIEak4bYFhq9cyQP2jV\nyhzNcOmUoKQBhmNeFlFTtgvD79y9ZhS/4muvvwyiyjX1JOX5MpJI+acozg6bqOHQ\nrhknSE8Z9wKBgQDiPVB+/Q63tJaoWTMOTYrLFBljmLY1cU1EnyI3w44dwmbW6QWa\nGt74W9fx5dWgNC2y1u7VxcnSU3VHRIgD3MXrKzlNOFkfpU8iZ+VVw78HN8pBgg6T\nqAyosNl6w0Qvf/xCTVfPBRlS3LjIHplKfvwNg7YoPqJQKrRB1erhhkaKBQKBgEia\nckOdIPlTHzswOwQSoiUT5ZdiqtJBBr7KBFTNHSSJUvdl77uMC6l9t+/FSSFGo0RD\na9NnjT4nYN4BJjieG7cA5ah5VMik2J/g16gvQydEamMjemdCQXrcr0Kzka+2v5P+\nnqvY33jHwydodQEKUzwvA7UsYKrqjA0zr7RMwTl7AoGAGKfZIP2dHGzz3uHF4/Qn\nZ1122PhcA9EQvEkeBiJjzVkAnEW9UrtPgJ6H1KeYmEW/ahza4IeyJde+UApceBhQ\nW2l4YEOZ8/Qor14ZbwwQZSU8ygUa4mtIfhSuE8yayBJ8NOj1cQgwS23bcawmBrsU\ntGb9YxgKyYPuyf6+wZGrhCI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision@elaborate-haven-390001.iam.gserviceaccount.com",
+  "client_id": "109550227878409216319",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision%40elaborate-haven-390001.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
